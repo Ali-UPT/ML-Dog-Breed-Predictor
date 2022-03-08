@@ -18,5 +18,5 @@ In order to execute the project, you may need Python 3x, Jupyter Notebook, OpenC
 
 # Acknowledgments
 
-I would like to thank Udacity for providing a great platform that made performing this project possible. 
+I would like to thank ... for providing a great platform that made performing this project possible. 
 
